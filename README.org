@@ -4,6 +4,6 @@ Deployment tools for standalone Common Lisp applications
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/deploy.git |
-| commit  | 7b2ca61                                      |
+| commit  | 9699c86                                      |
 | systems | deploy                                       |
 |---------+----------------------------------------------|
